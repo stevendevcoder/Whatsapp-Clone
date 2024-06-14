@@ -1,0 +1,50 @@
+{
+  "chats": [
+    {
+      "id": 1,
+      "name": "Andrea",
+      "profileIMG": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/newscms/2015_02/835681/150106-mia-khalifa-830a.jpg",
+      "my_messages": [
+        {
+          "text": "Hola, Mi amor como estas todo bien?",
+          "image": null,
+          "file": null,
+          "timestamp": "2024-05-31T10:00:00Z",
+          "edited": false
+        }  
+      ],
+      "his_messages": [
+        {
+          "text": "todo bien",
+          "image": null,
+          "file": null,
+          "timestamp": "2024-05-31T10:00:00Z",
+          "edited": false
+        }  
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Marcela",
+      "profileIMG": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/newscms/2015_02/835681/150106-mia-khalifa-830a.jpg",
+      "my_messages": [
+        {
+          "text": "lol",
+          "image": null,
+          "file": null,
+          "timestamp": "2024-05-31T10:01:00Z",
+          "edited": false
+        }
+      ],
+      "his_messages": [
+        {
+          "text": "lol",
+          "image": null,
+          "file": null,
+          "timestamp": "2024-05-31T10:00:00Z",
+          "edited": false
+        }  
+      ]
+    }
+  ]
+}
